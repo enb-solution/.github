@@ -33,4 +33,6 @@
 - 이슈 템플릿
   - [기능 요청](https://github.com/enb-solution/.github/blob/main/profile/%EA%B8%B0%EB%8A%A5-%EC%B6%94%EA%B0%80-%EC%9A%94%EC%B2%AD.md)
   - [버그 리포트](https://github.com/enb-solution/.github/blob/main/profile/%EB%B2%84%EA%B7%B8-%EB%A6%AC%ED%8F%AC%ED%8A%B8.md)
+- [깃 커밋 템플릿](https://github.com/enb-solution/.github/blob/main/profile/.gitmessage.txt)
 - [PR 템플릿](https://github.com/enb-solution/.github/blob/main/profile/PULL_REQUEST_TEMPLATE.md)
+
