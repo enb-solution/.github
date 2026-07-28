@@ -1,27 +1,29 @@
 # ENB Solution
 
-🚀 Smart Factory & MES 솔루션을 개발하는 ENB Solution입니다.  
+🚀 Smart Factory & MES 솔루션을 개발하는 ENB Solution입니다.
 
 <br />
 
 ## 프로젝트 진행 현황
 
-|  | 설명 | 링크 |
-|----------|------|------|
+|                  | 설명                                     | 링크                                                           |
+| ---------------- | ---------------------------------------- | -------------------------------------------------------------- |
 | 📘 프로젝트 관리 | 전체 프로젝트 일정 및 마일스톤 통합 관리 | [바로가기](https://github.com/enb-solution/project-management) |
 
 <br />
 
 ## 🔗 프로젝트 레포지토리 정리
+
 ### [바로가기](https://github.com/enb-solution/.github/blob/main/profile/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%A0%95%EB%A6%AC.md)
 
 <br />
 
 ## 🧰 기술 스택
 
-- **Frontend**: React, Vite, TailwindCSS, Zustand
-- **Backend**: Node.js (Express), PostgreSQL, MariaDB
-- **DevOps**: Nginx
+- **Frontend**: React, TypeScript, Vite, TailwindCSS, Zustand
+- **Backend**: Nest.js, Node.js (Express), TypeScript
+- **Database**: PostgreSQL, MariaDB
+- **DevOps**: Docker, PM2, Nginx
 
 <br />
 
@@ -35,4 +37,3 @@
   - [버그 리포트](https://github.com/enb-solution/.github/blob/main/profile/%EB%B2%84%EA%B7%B8-%EB%A6%AC%ED%8F%AC%ED%8A%B8.md)
 - [깃 커밋 템플릿](https://github.com/enb-solution/.github/blob/main/profile/.gitmessage.txt)
 - [PR 템플릿](https://github.com/enb-solution/.github/blob/main/profile/PULL_REQUEST_TEMPLATE.md)
-
